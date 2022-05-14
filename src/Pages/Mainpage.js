@@ -4,6 +4,7 @@ import kutta from '../images/kutta.jpg'
 import therapist from '../images/therapist.jpg'
 import journal from '../images/journal.png'
 import {useNavigate} from 'react-router-dom';
+import {Link} from 'react-router-dom'
 
 const Mainpage = () => {
 
@@ -19,14 +20,14 @@ const Mainpage = () => {
                             <ul className="pricing-features">
                                 <li className="pricing-features-item">Share your thoughts with Chatbot</li>
                             </ul>
-                            <a href="/chat" className="pricing-button">Chat</a>
+                            <Link to="/chat" className="pricing-button">Chat</Link>
                     </div>
                     <div className="pricing-plan column">
                         <img src={journal} alt="" className="pricing-img"/>
                             <ul className="pricing-features">
                                 <li className="pricing-features-item">Share with your community</li>
                             </ul>
-                            <a href="/community" className="pricing-button">Community</a>
+                            <Link to="/community" className="pricing-button">Community</Link>
                     </div>
                 </div>
 
