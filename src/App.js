@@ -22,7 +22,6 @@ function App() {
         <Route path='/mainpage' exact element={<><Navbar/><Mainpage/><Footer/></>}></Route>
         <Route path='/about' exact element={<><Navbar/><About/><Footer/></>}></Route>
         <Route path='/sos' exact element={ <><Navbar username={userName}/><SOS/><Footer/></>}></Route>
-        <Route path='/chat' exact element={ <Chat/>}></Route>
         <Route path='/community' exact element={ <Community  />}></Route>
 
       </Routes>

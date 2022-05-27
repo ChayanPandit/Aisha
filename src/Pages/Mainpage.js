@@ -15,15 +15,8 @@ const Mainpage = () => {
             <div className="main-section">
 
                <div className='row panel'>
-                    <div className="pricing-plan column">
+                    <div className="pricing-plan ">
                         <img src={kutta} alt="" className="pricing-img"/>
-                            <ul className="pricing-features">
-                                <li className="pricing-features-item">Share your thoughts with Chatbot</li>
-                            </ul>
-                            <Link to="/chat" className="pricing-button">Chat</Link>
-                    </div>
-                    <div className="pricing-plan column">
-                        <img src={journal} alt="" className="pricing-img"/>
                             <ul className="pricing-features">
                                 <li className="pricing-features-item">Share with your community</li>
                             </ul>
