@@ -18,7 +18,7 @@ function Homepage ({
             <div className="pricing-plan1">
                 <img src={girly} className="logo1" alt=""/>
                 <ul className="pricing-features1">
-                    <h1 className="greetname1">Hi, I'm Aisha</h1>
+                    <h1 className="greetname1">Hi, I'm ConnectAll</h1>
                     <li className="pricing-features-item1">What's your name?</li>
                     <input className="pricing-features-item2" name="username" value={username} onChange={(e)=>setusername(e.target.value)}placeholder="A nickname you prefer..."/>
                 </ul>
