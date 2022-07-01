@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aisha/static/css/main.5ef1e8d0.css",
-    "main.js": "/aisha/static/js/main.5dd1f794.js",
+    "main.css": "/aisha/static/css/main.da62a9dc.css",
+    "main.js": "/aisha/static/js/main.14a814c8.js",
     "static/js/787.394bf203.chunk.js": "/aisha/static/js/787.394bf203.chunk.js",
     "static/media/girly.gif": "/aisha/static/media/girly.6e9f3f896549f764507f.gif",
     "static/media/journal.png": "/aisha/static/media/journal.a2d132aff02a202edd76.png",
@@ -17,12 +17,12 @@
     "static/media/smh.jpg": "/aisha/static/media/smh.7ef3cb8f9c5c195eed55.jpg",
     "static/media/trns.png": "/aisha/static/media/trns.7acfdac48552493eee49.png",
     "index.html": "/aisha/index.html",
-    "main.5ef1e8d0.css.map": "/aisha/static/css/main.5ef1e8d0.css.map",
-    "main.5dd1f794.js.map": "/aisha/static/js/main.5dd1f794.js.map",
+    "main.da62a9dc.css.map": "/aisha/static/css/main.da62a9dc.css.map",
+    "main.14a814c8.js.map": "/aisha/static/js/main.14a814c8.js.map",
     "787.394bf203.chunk.js.map": "/aisha/static/js/787.394bf203.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ef1e8d0.css",
-    "static/js/main.5dd1f794.js"
+    "static/css/main.da62a9dc.css",
+    "static/js/main.14a814c8.js"
   ]
 }
