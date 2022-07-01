@@ -62,16 +62,17 @@ body {
  .column{
    display: flex;
  }
+ .main-section{
+  padding: 10%;
+ }
 .panel {
   background-color: white;
   border-radius: 10px;
-  margin-top: 8%;
   width: 50%;
   margin-left: 50%;
   margin-right: 50%;
   display: flex;
   justify-content: center;
-  margin-bottom: 5%;
   text-align: center;
   text-transform: uppercase;
 }
